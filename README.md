@@ -4,7 +4,7 @@ This is a console-based Personal Expense Tracker application implemented in Pyth
 
 
 
- ##Features Implemented
+** Features Implemented:**
 
 Add Expense: Input expense details such as category, amount, and date.
 
@@ -17,7 +17,7 @@ Search by Date Range: Retrieves the expenses for a specified date range.
 Persistent Storage: It stores the expense data in a text file, `expenses.txt`, so it will be available even after closing the program.
 
 
- ##Running the Project
+** Running the Project:**
 
 1. Open terminal or command prompt.
 
